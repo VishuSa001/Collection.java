@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class Vetor_New {
+public class Vector_New {
     public static void main(String[] args) {
         Vector<String> ob=new Vector<String>();
         ob.add("Vishu");
